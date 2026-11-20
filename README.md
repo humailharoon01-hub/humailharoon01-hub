@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there, I'm Humail 👋
 
-<!--
-**humailharoon01-hub/humailharoon01-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student 💻
 
-Here are some ideas to get you started:
+Exploring the world of software development, learning new technologies, and turning ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 First Semester — Software Engineering  
+🌱 Currently learning programming fundamentals  
+💡 Interested in software development & problem-solving  
+🚀 Learning by building projects and experimenting  
+
+---
+
+### 🛠️ Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+### 📌 Goals
+
+- Build a strong foundation in programming
+- Learn new technologies
+- Develop practical projects
+- Become a better problem solver
+
+---
+
+<p align="center">
+  <i>Every expert was once a beginner.</i> ✨
+</p>
